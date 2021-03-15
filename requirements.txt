@@ -1,0 +1,10 @@
+Required Modules:
+numpy
+pandas
+matplotlib.pyplot
+
+Mimimumly Python Version Requirement:
+Python 3
+
+Suggested Python Version:
+Python 3.7 or above
